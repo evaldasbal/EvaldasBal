@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvaldasBal
 - 👀 I’m interested in Pyhon, R and LaTeX.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and ggplot2 for R.
 - 💞️ I’m looking to collaborate on some simple Python projects.
 
 <!---
