@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Evaldas.
-- 👀 I’m interested in LaTeX, Pyhon, R and SQL.
+- 👀 I’m interested in LaTeX, Pyhon and SQL.
